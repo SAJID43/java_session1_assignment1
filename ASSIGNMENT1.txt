@@ -1,0 +1,15 @@
+
+public class firstprogram {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		int a = 25;
+		float b = 12;
+		int c  = a + (int) b;
+		System.out.println("The sum of a and b is " + c)
+	;
+		
+	}
+
+}
